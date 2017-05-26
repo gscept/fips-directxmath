@@ -1,0 +1,5 @@
+# fips directxmath
+---
+exports:
+        header-dirs:
+             - DirectXMath/Inc
